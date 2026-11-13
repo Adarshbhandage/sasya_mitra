@@ -1,0 +1,6 @@
+{
+  "name": "Sasya Mitra",
+  "description": "Your Smart Companion for Healthier Crops — Offline-first AI-powered crop disease detection, severity analysis, weather risk intelligence, and Karnataka outbreak mapping.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
